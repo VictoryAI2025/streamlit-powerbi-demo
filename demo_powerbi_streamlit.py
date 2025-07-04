@@ -5,7 +5,7 @@ import io
 
 st.set_page_config(page_title="Mini Power BI", layout="wide")
 
-st.title("🧠 Analiza tus datos como en Power BI")
+st.title("🧠 Analiza tus datos de Forma Interactiva")
 
 # Cargar archivo
 uploaded_file = st.file_uploader("📂 Sube tu archivo CSV", type=["csv"])
